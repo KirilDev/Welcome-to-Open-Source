@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/KirilDev">
+                    <img src="https://avatars.githubusercontent.com/u/126055944?v=4" width="100px;"
+                        alt="KirilDev" />
+                    <br />
+                    <sub>
+                        <b>KirilDev</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
